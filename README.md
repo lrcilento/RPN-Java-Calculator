@@ -3,16 +3,16 @@ Calculadora "manual" feita em Java com todas funções básicas.
 
 Utilização:
 
-1 = Soma
-2 = Subtração
-3 = Divisão
-4 = Multiplicação
-5 = Exponenciação
+1 = Soma,
+2 = Subtração,
+3 = Divisão,
+4 = Multiplicação,
+5 = Exponenciação e
 6 = Radiciação
 
 Após operação:
 
-0 = Encerrar
+0 = Encerrar;
 1 = Continuar
 
 Observações:
