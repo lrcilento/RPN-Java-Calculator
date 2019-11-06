@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class Runner {	
+public class Calculadora Manual em Java {	
     public static void main(String[] args) {        	
     	int running = 1;
     	Scanner input = new Scanner(System.in);    	
