@@ -94,10 +94,10 @@ public class java_calculator {
     	double z = 1;
     	int i = 1;   	   		
     	while (i > 0) {  		
-    		if (z*z < x) {z = z + 0.01;}
+    		if (z*z < x) {z = z + 0.0001;}
     		else {i = 0;}	
     	}
-    	DecimalFormat df = new DecimalFormat(".##");
+    	DecimalFormat df = new DecimalFormat(".###");
     	System.out.println("A raiz quadrada de "+x+" é igual a: "+df.format(z)+".");
     }
 }
