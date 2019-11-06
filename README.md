@@ -17,4 +17,4 @@ Após operação:
 
 Observações:
 
-A radiciação só opera raizes quadradas e com precisão de 0.01.
+A radiciação só opera raizes quadradas e com precisão de 0.001.
