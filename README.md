@@ -3,18 +3,14 @@ Calculadora "manual" feita em Java com todas funções básicas.
 
 Utilização:
 
-1 = Soma,
-2 = Subtração,
-3 = Divisão,
-4 = Multiplicação,
-5 = Exponenciação e
-6 = Radiciação
+Todas as operações devem estar entre parênteses "()". Exemplo: ((((1+1)*2)/2)^2).
 
-Após operação:
+Os sinais de operação devem ser exatamente os seguintes:
 
-0 = Encerrar;
-1 = Continuar
+'+' = Soma,
+'-' = Subtração,
+'/' = Divisão,
+'*' = Multiplicação e
+'^' = Exponenciação
 
-Observações:
-
-A radiciação só opera raizes quadradas e com precisão de 0.001.
+Lembre-se de usar apenas números inteiros.
