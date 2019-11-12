@@ -122,8 +122,6 @@ public class calculadora {
 					}
 					if (rule == '+') {x = x+y;}				
 					else if (rule == '-') {x = x-y;}				
-					else if (rule == '/') {x = x/y;}				
-					else if (rule == '*') {x = x*y;}
 				}
 			}
 		}
