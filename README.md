@@ -1,5 +1,5 @@
 # calculadora-java
-Calculadora "manual" feita em Java com todas funções básicas.
+Calculadora "manual" feita em Java, usando majoritariamente pilhas, com todas funções básicas.
 
 Utilização:
 
