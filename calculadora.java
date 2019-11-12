@@ -52,7 +52,7 @@ public class calculadora {
 				pilei.push(x);				
 			}			
 			else if (equation.charAt(aux) == '0' || equation.charAt(aux) == '1' || equation.charAt(aux) == '2' || equation.charAt(aux) == '3' || equation.charAt(aux) == '4' || equation.charAt(aux) == '5' || equation.charAt(aux) == '6' || equation.charAt(aux) == '7' || equation.charAt(aux) == '8' || equation.charAt(aux) == '9'){piled.push(equation.charAt(aux));}			
-			else {System.out.println("Por favor, insira apenas número inteiros e os operadores informados no manual."); break;}			
+			else {System.out.println("Por favor, insira apenas números inteiros e os operadores informados no manual."); break;}			
 			aux++;						
 		}
 		while (pilec.isEmpty() == false || pilecaux.isEmpty() == false) {
