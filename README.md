@@ -3,8 +3,6 @@ Calculadora "manual" feita em Java, usando majoritariamente pilhas, com todas fu
 
 Utilização:
 
-É preciso referenciar o "pilha.jar" para que a classe funcione.
-
 Os sinais de operação devem ser exatamente os seguintes:
 
 '+' = Soma,
