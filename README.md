@@ -1,5 +1,5 @@
 # calculadora-java
-Calculadora "manual" feita em Java, usando majoritariamente pilhas, com todas funções básicas.
+Primeira versão da calculadora a base de NPR feita em Java, usando majoritariamente pilhas, com todas funções básicas.
 
 Utilização:
 
